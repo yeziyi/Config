@@ -94,14 +94,14 @@
         "f2": 1.36, 
         "f3": 3.6, 
         "areaInfo": {
-            "language_code": "zh", 
-            "carrier_country_code": "hk", 
-            "country_sim": "HK", 
-            "country_code": "HK", 
-            "timezone": "Asia%2FHong_Kong", 
-            "mobile_country_code": "454", 
-            "mobile_network_code": "06", 
-            "carrier_name": "SmarTone"
+            "language_code": "ru", 
+            "carrier_country_code": "ru", 
+            "country_sim": "RU", 
+            "country_code": "RU", 
+            "timezone": "Europe%2FMoscow", 
+            "mobile_country_code": "250", 
+            "mobile_network_code": "250", 
+            "carrier_name": "MTS"
         }
     }, 
     "default": {
