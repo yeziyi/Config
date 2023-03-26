@@ -109,7 +109,7 @@
             "mobile_network_code": "01", 
             "carrier_name": "MTS"
         }, 
-        "retry": 1
+        "retry": 0
     }, 
     "default": {
         "f1": 1.25, 
