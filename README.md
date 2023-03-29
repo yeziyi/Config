@@ -52,14 +52,14 @@
         "f2": 1.25, 
         "f3": 3.6, 
         "areaInfo": {
-            "language_code": "zh", 
-            "carrier_country_code": "hk", 
-            "country_sim": "HK", 
-            "country_code": "HK", 
-            "timezone": "Asia%2FHong_Kong", 
-            "mobile_country_code": "454", 
-            "mobile_network_code": "06", 
-            "carrier_name": "SmarTone"
+            "language_code": "ja", 
+            "carrier_country_code": "jp", 
+            "country_sim": "JP", 
+            "country_code": "JP", 
+            "timezone": "Asia%2FTokyo", 
+            "mobile_country_code": "440", 
+            "mobile_network_code": "21", 
+            "carrier_name": "SoftBank"
         }, 
         "retry": 0
     }, 
