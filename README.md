@@ -96,9 +96,9 @@
         "retry": 0
     }, 
     "ru": {
-        "f1": 1.6, 
-        "f2": 1.45, 
-        "f3": 6.6, 
+        "f1": 2.0, 
+        "f2": 1.75, 
+        "f3": 0.0, 
         "areaInfo": {
             "language_code": "ru", 
             "carrier_country_code": "ru", 
