@@ -20,14 +20,14 @@
         "f2": 1.2, 
         "f3": 3.6, 
         "areaInfo": {
-            "language_code": "zh", 
-            "carrier_country_code": "hk", 
-            "country_sim": "HK", 
-            "country_code": "HK", 
-            "timezone": "Asia%2FHong_Kong", 
-            "mobile_country_code": "454", 
-            "mobile_network_code": "06", 
-            "carrier_name": "SmarTone"
+            "language_code": "zh-TW", 
+            "carrier_country_code": "tw", 
+            "country_sim": "TW", 
+            "country_code": "TW", 
+            "timezone": "Asia%2FTaipei", 
+            "mobile_country_code": "466", 
+            "mobile_network_code": "09", 
+            "carrier_name": "VMAX"
         }, 
         "retry": 0
     }, 
