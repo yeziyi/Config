@@ -85,13 +85,13 @@
         "f3": 3.6, 
         "areaInfo": {
             "language_code": "zh", 
-            "carrier_country_code": "hk", 
-            "country_sim": "HK", 
-            "country_code": "HK", 
-            "timezone": "Asia%2FHong_Kong", 
-            "mobile_country_code": "454", 
-            "mobile_network_code": "06", 
-            "carrier_name": "SmarTone"
+            "carrier_country_code": "sg", 
+            "country_sim": "SG", 
+            "country_code": "SG", 
+            "timezone": "Asia%2FSingapore", 
+            "mobile_country_code": "525", 
+            "mobile_network_code": "07", 
+            "carrier_name": "SingTel"
         }, 
         "retry": 0
     }, 
