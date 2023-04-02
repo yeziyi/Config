@@ -20,7 +20,7 @@
         "f2": 1.2, 
         "f3": 3.6, 
         "areaInfo": {
-            "language_code": "zh-TW", 
+            "language_code": "zh", 
             "carrier_country_code": "tw", 
             "country_sim": "TW", 
             "country_code": "TW", 
