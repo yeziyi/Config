@@ -48,9 +48,9 @@
         "retry": 0
     }, 
     "jp": {
-        "f1": 1.25, 
-        "f2": 1.25, 
-        "f3": 3.6, 
+        "f1": 1.6, 
+        "f2": 1.5, 
+        "f3": 9.9, 
         "areaInfo": {
             "language_code": "ja", 
             "carrier_country_code": "jp", 
