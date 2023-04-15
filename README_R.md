@@ -143,6 +143,22 @@
         }, 
         "retry": 0
     }, 
+    "th": {
+        "f1": 1.5, 
+        "f2": 1.5, 
+        "f3": 6.6, 
+        "areaInfo": {
+            "language_code": "th", 
+            "carrier_country_code": "th", 
+            "country_sim": "TH", 
+            "country_code": "TH", 
+            "timezone": "Asia%2FBangkok", 
+            "mobile_country_code": "520", 
+            "mobile_network_code": "01", 
+            "carrier_name": "AIS"
+        }, 
+        "retry": 0
+    }, 
     "default": {
         "f1": 1.25, 
         "f2": 1.25, 
