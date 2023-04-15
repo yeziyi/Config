@@ -127,6 +127,22 @@
         }, 
         "retry": 0
     }, 
+    "ph": {
+        "f1": 1.5, 
+        "f2": 1.5, 
+        "f3": 6.6, 
+        "areaInfo": {
+            "language_code": "fil", 
+            "carrier_country_code": "ph", 
+            "country_sim": "PH", 
+            "country_code": "PH", 
+            "timezone": "Asia%2FManila", 
+            "mobile_country_code": "515", 
+            "mobile_network_code": "03", 
+            "carrier_name": "SMART"
+        }, 
+        "retry": 0
+    }, 
     "default": {
         "f1": 1.25, 
         "f2": 1.25, 
