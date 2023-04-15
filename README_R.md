@@ -111,6 +111,22 @@
         }, 
         "retry": 0
     }, 
+    "vn": {
+        "f1": 1.5, 
+        "f2": 1.5, 
+        "f3": 6.6, 
+        "areaInfo": {
+            "language_code": "vi", 
+            "carrier_country_code": "vn", 
+            "country_sim": "VN", 
+            "country_code": "VN", 
+            "timezone": "Asia%2FHo_Chi_Minh", 
+            "mobile_country_code": "452", 
+            "mobile_network_code": "01", 
+            "carrier_name": "MobiFone"
+        }, 
+        "retry": 0
+    }, 
     "default": {
         "f1": 1.25, 
         "f2": 1.25, 
