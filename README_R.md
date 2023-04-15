@@ -1,8 +1,8 @@
 {
     "hk": {
-        "f1": 1.15, 
-        "f2": 1.15, 
-        "f3": 3.6, 
+        "f1": 1.25, 
+        "f2": 1.25, 
+        "f3": 6.6, 
         "areaInfo": {
             "language_code": "zh", 
             "carrier_country_code": "hk", 
@@ -16,9 +16,9 @@
         "retry": 0
     }, 
     "tw": {
-        "f1": 1.2, 
-        "f2": 1.2, 
-        "f3": 3.6, 
+        "f1": 1.25, 
+        "f2": 1.25, 
+        "f3": 6.6, 
         "areaInfo": {
             "language_code": "zh", 
             "carrier_country_code": "tw", 
