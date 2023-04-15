@@ -82,7 +82,7 @@
     "sg": {
         "f1": 1.25, 
         "f2": 1.25, 
-        "f3": 3.6, 
+        "f3": 6.6, 
         "areaInfo": {
             "language_code": "zh", 
             "carrier_country_code": "sg", 
