@@ -159,6 +159,22 @@
         }, 
         "retry": 0
     }, 
+    "tr": {
+        "f1": 1.5, 
+        "f2": 1.5, 
+        "f3": 6.6, 
+        "areaInfo": {
+            "language_code": "tr", 
+            "carrier_country_code": "tr", 
+            "country_sim": "TR", 
+            "country_code": "TR", 
+            "timezone": "GMT%2B03%3A00", 
+            "mobile_country_code": "286", 
+            "mobile_network_code": "01", 
+            "carrier_name": "Turkcell"
+        }, 
+        "retry": 0
+    }, 
     "default": {
         "f1": 1.25, 
         "f2": 1.25, 
