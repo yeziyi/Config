@@ -175,6 +175,22 @@
         }, 
         "retry": 0
     }, 
+    "mx": {
+        "f1": 1.5, 
+        "f2": 1.5, 
+        "f3": 6.6, 
+        "areaInfo": {
+            "language_code": "es", 
+            "carrier_country_code": "MX", 
+            "country_sim": "MX", 
+            "country_code": "MX", 
+            "timezone": "hora+est%C3%A1ndar+central", 
+            "mobile_country_code": "334", 
+            "mobile_network_code": "010", 
+            "carrier_name": "Nextel"
+        }, 
+        "retry": 0
+    }, 
     "default": {
         "f1": 1.25, 
         "f2": 1.25, 
