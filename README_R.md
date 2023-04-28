@@ -190,7 +190,23 @@
             "carrier_name": "Nextel"
         }, 
         "retry": 0
-    }, 
+    },
+    "ar": {
+        "f1": 1.5, 
+        "f2": 1.5, 
+        "f3": 9.6, 
+        "areaInfo": {
+            "language_code": "es", 
+            "carrier_country_code": "AR", 
+            "country_sim": "AR", 
+            "country_code": "AR", 
+            "timezone": "America%2FArgentina%2FSan_Luis", 
+            "mobile_country_code": "722", 
+            "mobile_network_code": "010", 
+            "carrier_name": "Movistar"
+        }, 
+        "retry": 0
+    },
     "default": {
         "f1": 1.25, 
         "f2": 1.25, 
