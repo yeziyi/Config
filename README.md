@@ -1,8 +1,8 @@
 {
     "hk": {
-        "f1": 1.15, 
-        "f2": 1.15, 
-        "f3": 3.6, 
+        "f1": 1.25, 
+        "f2": 1.25, 
+        "f3": 6.6, 
         "areaInfo": {
             "language_code": "zh", 
             "carrier_country_code": "hk", 
@@ -16,9 +16,9 @@
         "retry": 0
     }, 
     "tw": {
-        "f1": 1.2, 
-        "f2": 1.2, 
-        "f3": 3.6, 
+        "f1": 1.25, 
+        "f2": 1.25, 
+        "f3": 6.6, 
         "areaInfo": {
             "language_code": "zh", 
             "carrier_country_code": "tw", 
@@ -82,7 +82,7 @@
     "sg": {
         "f1": 1.25, 
         "f2": 1.25, 
-        "f3": 3.6, 
+        "f3": 6.6, 
         "areaInfo": {
             "language_code": "zh", 
             "carrier_country_code": "sg", 
@@ -111,6 +111,118 @@
         }, 
         "retry": 0
     }, 
+    "vn": {
+        "f1": 1.5, 
+        "f2": 1.5, 
+        "f3": 6.6, 
+        "areaInfo": {
+            "language_code": "vi", 
+            "carrier_country_code": "vn", 
+            "country_sim": "VN", 
+            "country_code": "VN", 
+            "timezone": "Asia%2FHo_Chi_Minh", 
+            "mobile_country_code": "452", 
+            "mobile_network_code": "01", 
+            "carrier_name": "MobiFone"
+        }, 
+        "retry": 0
+    }, 
+    "ph": {
+        "f1": 1.5, 
+        "f2": 1.5, 
+        "f3": 6.6, 
+        "areaInfo": {
+            "language_code": "fil", 
+            "carrier_country_code": "ph", 
+            "country_sim": "PH", 
+            "country_code": "PH", 
+            "timezone": "Asia%2FManila", 
+            "mobile_country_code": "515", 
+            "mobile_network_code": "03", 
+            "carrier_name": "SMART"
+        }, 
+        "retry": 0
+    }, 
+    "th": {
+        "f1": 1.5, 
+        "f2": 1.5, 
+        "f3": 6.6, 
+        "areaInfo": {
+            "language_code": "th", 
+            "carrier_country_code": "th", 
+            "country_sim": "TH", 
+            "country_code": "TH", 
+            "timezone": "Asia%2FBangkok", 
+            "mobile_country_code": "520", 
+            "mobile_network_code": "01", 
+            "carrier_name": "AIS"
+        }, 
+        "retry": 0
+    }, 
+    "tr": {
+        "f1": 1.5, 
+        "f2": 1.5, 
+        "f3": 6.6, 
+        "areaInfo": {
+            "language_code": "tr", 
+            "carrier_country_code": "tr", 
+            "country_sim": "TR", 
+            "country_code": "TR", 
+            "timezone": "GMT%2B03%3A00", 
+            "mobile_country_code": "286", 
+            "mobile_network_code": "01", 
+            "carrier_name": "Turkcell"
+        }, 
+        "retry": 0
+    }, 
+    "mx": {
+        "f1": 1.5, 
+        "f2": 1.5, 
+        "f3": 6.6, 
+        "areaInfo": {
+            "language_code": "es", 
+            "carrier_country_code": "MX", 
+            "country_sim": "MX", 
+            "country_code": "MX", 
+            "timezone": "hora+est%C3%A1ndar+central", 
+            "mobile_country_code": "334", 
+            "mobile_network_code": "010", 
+            "carrier_name": "Nextel"
+        }, 
+        "retry": 0
+    },
+    "ar": {
+        "f1": 1.5, 
+        "f2": 1.5, 
+        "f3": 9.6, 
+        "areaInfo": {
+            "language_code": "es", 
+            "carrier_country_code": "AR", 
+            "country_sim": "AR", 
+            "country_code": "AR", 
+            "timezone": "America%2FArgentina%2FSan_Luis", 
+            "mobile_country_code": "722", 
+            "mobile_network_code": "010", 
+            "carrier_name": "Movistar"
+        }, 
+        "retry": 0
+    },
+    "us": {
+        "f1": 1.5, 
+        "f2": 1.5, 
+        "f3": 9.6, 
+        "areaInfo": {
+            "language_code": "en", 
+            "carrier_country_code": "US", 
+            "country_sim": "US", 
+            "country_code": "US", 
+            "timezone": "America%2FLos_Angeles", 
+            "mobile_country_code": "310", 
+            "mobile_network_code": "013", 
+            "carrier_name": "Verizon"
+        }, 
+        "retry": 0
+    },
     "default": {
         "f1": 1.25, 
         "f2": 1.25, 
