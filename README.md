@@ -223,6 +223,22 @@
         }, 
         "retry": 0
     },
+    "gb": {
+        "f1": 1.5, 
+        "f2": 1.5, 
+        "f3": 9.6, 
+        "areaInfo": {
+            "language_code": "en", 
+            "carrier_country_code": "GB", 
+            "country_sim": "GB", 
+            "country_code": "GB", 
+            "timezone": "Europe%2FLondon", 
+            "mobile_country_code": "234", 
+            "mobile_network_code": "15", 
+            "carrier_name": "Vodafone"
+        }, 
+        "retry": 0
+    },
     "default": {
         "f1": 1.25, 
         "f2": 1.25, 
