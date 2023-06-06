@@ -223,9 +223,25 @@
         }, 
         "retry": 0
     },
+    "kr": {
+        "f1": 1.5, 
+        "f2": 1.5, 
+        "f3": 9.6, 
+        "areaInfo": {
+            "language_code": "en", 
+            "carrier_country_code": "US", 
+            "country_sim": "US", 
+            "country_code": "US", 
+            "timezone": "America%2FLos_Angeles", 
+            "mobile_country_code": "310", 
+            "mobile_network_code": "013", 
+            "carrier_name": "Verizon"
+        }, 
+        "retry": 0
+    },
     "default": {
-        "f1": 1.25, 
-        "f2": 1.25, 
+        "f1": 1.5, 
+        "f2": 1.5, 
         "f3": 3.6, 
         "areaInfo": {
             "language_code": "zh", 
