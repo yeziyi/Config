@@ -165,7 +165,7 @@
         "f3": 6.6, 
         "areaInfo": {
             "language_code": "tr", 
-            "carrier_country_code": "TR", 
+            "carrier_country_code": "tr", 
             "country_sim": "TR", 
             "country_code": "TR", 
             "timezone": "Europe%2FIstanbul", 
@@ -181,7 +181,7 @@
         "f3": 6.6, 
         "areaInfo": {
             "language_code": "es", 
-            "carrier_country_code": "MX", 
+            "carrier_country_code": "mx", 
             "country_sim": "MX", 
             "country_code": "MX", 
             "timezone": "America%2FMexico_City", 
@@ -197,7 +197,7 @@
         "f3": 9.6, 
         "areaInfo": {
             "language_code": "es", 
-            "carrier_country_code": "AR", 
+            "carrier_country_code": "ar", 
             "country_sim": "AR", 
             "country_code": "AR", 
             "timezone": "America%2FArgentina%2FSan_Luis", 
@@ -213,7 +213,7 @@
         "f3": 9.6, 
         "areaInfo": {
             "language_code": "en", 
-            "carrier_country_code": "US", 
+            "carrier_country_code": "us", 
             "country_sim": "US", 
             "country_code": "US", 
             "timezone": "America%2FLos_Angeles", 
@@ -229,7 +229,7 @@
         "f3": 6.6, 
         "areaInfo": {
             "language_code": "ko", 
-            "carrier_country_code": "KR", 
+            "carrier_country_code": "kr", 
             "country_sim": "KR", 
             "country_code": "KR", 
             "timezone": "Asia%2FSeoul", 
@@ -245,7 +245,7 @@
         "f3": 6.6, 
         "areaInfo": {
             "language_code": "in", 
-            "carrier_country_code": "ID", 
+            "carrier_country_code": "id", 
             "country_sim": "ID", 
             "country_code": "ID", 
             "timezone": "Asia%2FJakarta", 
