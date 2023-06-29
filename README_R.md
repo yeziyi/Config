@@ -63,28 +63,12 @@
         }, 
         "retry": 0
     }, 
-    "us": {
-        "f1": 1.25, 
-        "f2": 1.25, 
-        "f3": 3.6, 
-        "areaInfo": {
-            "language_code": "zh", 
-            "carrier_country_code": "hk", 
-            "country_sim": "HK", 
-            "country_code": "HK", 
-            "timezone": "Asia%2FHong_Kong", 
-            "mobile_country_code": "454", 
-            "mobile_network_code": "06", 
-            "carrier_name": "SmarTone"
-        }, 
-        "retry": 0
-    }, 
     "sg": {
         "f1": 1.5, 
         "f2": 1.5, 
         "f3": 6.6, 
         "areaInfo": {
-            "language_code": "zh", 
+            "language_code": "en", 
             "carrier_country_code": "sg", 
             "country_sim": "SG", 
             "country_code": "SG", 
