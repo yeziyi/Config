@@ -239,6 +239,22 @@
         }, 
         "retry": 0
     },
+    "id": {
+        "f1": 1.5, 
+        "f2": 1.5, 
+        "f3": 6.6, 
+        "areaInfo": {
+            "language_code": "in", 
+            "carrier_country_code": "ID", 
+            "country_sim": "ID", 
+            "country_code": "ID", 
+            "timezone": "Asia%2FJakarta", 
+            "mobile_country_code": "510", 
+            "mobile_network_code": "08", 
+            "carrier_name": "AXIS"
+        }, 
+        "retry": 0
+    },
     "default": {
         "f1": 1.5, 
         "f2": 1.5, 
