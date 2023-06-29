@@ -226,16 +226,16 @@
     "kr": {
         "f1": 1.5, 
         "f2": 1.5, 
-        "f3": 9.6, 
+        "f3": 6.6, 
         "areaInfo": {
-            "language_code": "en", 
-            "carrier_country_code": "US", 
-            "country_sim": "US", 
-            "country_code": "US", 
-            "timezone": "America%2FLos_Angeles", 
-            "mobile_country_code": "310", 
-            "mobile_network_code": "013", 
-            "carrier_name": "Verizon"
+            "language_code": "ko", 
+            "carrier_country_code": "KR", 
+            "country_sim": "KR", 
+            "country_code": "KR", 
+            "timezone": "Asia%2FSeoul", 
+            "mobile_country_code": "450", 
+            "mobile_network_code": "07", 
+            "carrier_name": "KT"
         }, 
         "retry": 0
     },
