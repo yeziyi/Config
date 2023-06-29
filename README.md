@@ -287,6 +287,22 @@
         },
         "retry": 0
     },
+    "au": {
+        "f1": 1.5,
+        "f2": 1.5,
+        "f3": 6.6,
+        "areaInfo": {
+            "language_code": "en",
+            "carrier_country_code": "au",
+            "country_sim": "AU",
+            "country_code": "AU",
+            "timezone": "Australia%2FSydney",
+            "mobile_country_code": "505",
+            "mobile_network_code": "01",
+            "carrier_name": "Telstra"
+        },
+        "retry": 0
+    },
     "default": {
         "f1": 1.5,
         "f2": 1.5,
