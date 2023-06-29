@@ -26,8 +26,8 @@
             "country_code": "TW", 
             "timezone": "Asia%2FTaipei", 
             "mobile_country_code": "466", 
-            "mobile_network_code": "09", 
-            "carrier_name": "VMAX"
+            "mobile_network_code": "01", 
+            "carrier_name": "FarEasTone"
         }, 
         "retry": 0
     }, 
