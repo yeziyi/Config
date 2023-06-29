@@ -271,6 +271,22 @@
         },
         "retry": 0
     },
+    "gb": {
+        "f1": 1.5,
+        "f2": 1.5,
+        "f3": 6.6,
+        "areaInfo": {
+            "language_code": "en",
+            "carrier_country_code": "gb",
+            "country_sim": "GB",
+            "country_code": "GB",
+            "timezone": "Europe%2FLondon",
+            "mobile_country_code": "234",
+            "mobile_network_code": "12",
+            "carrier_name": "Railtrack"
+        },
+        "retry": 0
+    },
     "default": {
         "f1": 1.5,
         "f2": 1.5,
