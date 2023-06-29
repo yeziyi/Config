@@ -184,10 +184,10 @@
             "carrier_country_code": "MX", 
             "country_sim": "MX", 
             "country_code": "MX", 
-            "timezone": "hora+est%C3%A1ndar+central", 
+            "timezone": "America%2FMexico_City", 
             "mobile_country_code": "334", 
-            "mobile_network_code": "010", 
-            "carrier_name": "Nextel"
+            "mobile_network_code": "020", 
+            "carrier_name": "Telcel"
         }, 
         "retry": 0
     },
