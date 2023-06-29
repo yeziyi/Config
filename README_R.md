@@ -165,10 +165,10 @@
         "f3": 6.6, 
         "areaInfo": {
             "language_code": "tr", 
-            "carrier_country_code": "tr", 
+            "carrier_country_code": "TR", 
             "country_sim": "TR", 
             "country_code": "TR", 
-            "timezone": "GMT%2B03%3A00", 
+            "timezone": "Europe%2FIstanbul", 
             "mobile_country_code": "286", 
             "mobile_network_code": "01", 
             "carrier_name": "Turkcell"
