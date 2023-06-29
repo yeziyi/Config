@@ -106,8 +106,8 @@
             "country_code": "RU", 
             "timezone": "Europe%2FMoscow", 
             "mobile_country_code": "250", 
-            "mobile_network_code": "01", 
-            "carrier_name": "MTS"
+            "mobile_network_code": "02", 
+            "carrier_name": "MegaFon"
         }, 
         "retry": 0
     }, 
