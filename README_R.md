@@ -10,8 +10,8 @@
             "country_code": "HK", 
             "timezone": "Asia%2FHong_Kong", 
             "mobile_country_code": "454", 
-            "mobile_network_code": "06", 
-            "carrier_name": "SmarTone"
+            "mobile_network_code": "08", 
+            "carrier_name": "Truphone"
         }, 
         "retry": 0
     }, 
