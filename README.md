@@ -255,6 +255,22 @@
         },
         "retry": 0
     },
+    "de": {
+        "f1": 1.5,
+        "f2": 1.5,
+        "f3": 6.6,
+        "areaInfo": {
+            "language_code": "de",
+            "carrier_country_code": "de",
+            "country_sim": "DE",
+            "country_code": "DE",
+            "timezone": "Europe%2FBerlin",
+            "mobile_country_code": "262",
+            "mobile_network_code": "01",
+            "carrier_name": "Telekom"
+        },
+        "retry": 0
+    },
     "default": {
         "f1": 1.5,
         "f2": 1.5,
