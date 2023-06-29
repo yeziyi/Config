@@ -26,8 +26,8 @@
             "country_code": "TW", 
             "timezone": "Asia%2FTaipei", 
             "mobile_country_code": "466", 
-            "mobile_network_code": "09", 
-            "carrier_name": "VMAX"
+            "mobile_network_code": "03", 
+            "carrier_name": "FarEasTone"
         }, 
         "retry": 0
     }, 
@@ -63,22 +63,6 @@
         }, 
         "retry": 0
     }, 
-    "us": {
-        "f1": 1.25, 
-        "f2": 1.25, 
-        "f3": 3.6, 
-        "areaInfo": {
-            "language_code": "zh", 
-            "carrier_country_code": "hk", 
-            "country_sim": "HK", 
-            "country_code": "HK", 
-            "timezone": "Asia%2FHong_Kong", 
-            "mobile_country_code": "454", 
-            "mobile_network_code": "06", 
-            "carrier_name": "SmarTone"
-        }, 
-        "retry": 0
-    }, 
     "sg": {
         "f1": 1.5, 
         "f2": 1.5, 
@@ -98,7 +82,7 @@
     "ru": {
         "f1": 1.7, 
         "f2": 1.6, 
-        "f3": 20.0, 
+        "f3": 6.6, 
         "areaInfo": {
             "language_code": "ru", 
             "carrier_country_code": "ru", 
