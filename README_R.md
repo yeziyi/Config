@@ -90,8 +90,8 @@
             "country_code": "RU", 
             "timezone": "Europe%2FMoscow", 
             "mobile_country_code": "250", 
-            "mobile_network_code": "01", 
-            "carrier_name": "MTS"
+            "mobile_network_code": "03", 
+            "carrier_name": "NCC"
         }, 
         "retry": 0
     }, 
