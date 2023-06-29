@@ -239,6 +239,22 @@
         }, 
         "retry": 0
     },
+    "in": {
+        "f1": 1.5,
+        "f2": 1.5,
+        "f3": 6.6,
+        "areaInfo": {
+            "language_code": "hi",
+            "carrier_country_code": "in",
+            "country_sim": "IN",
+            "country_code": "IN",
+            "timezone": "Asia%2FKolkata",
+            "mobile_country_code": "404",
+            "mobile_network_code": "02",
+            "carrier_name": "AirTel"
+        },
+        "retry": 0
+    },
     "default": {
         "f1": 1.5, 
         "f2": 1.5, 
