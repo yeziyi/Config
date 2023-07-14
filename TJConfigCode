@@ -1,0 +1,21 @@
+        try {
+            JSONObject jsonObject = new JSONObject();
+            JSONArray jsonArray = new JSONArray();
+            jsonArray.put("111111");
+            jsonArray.put("222222");
+            jsonArray.put("333333");
+            jsonObject.put("sks", jsonArray);
+            jsonObject.put("sas", 0);
+            Log.i("json_string", jsonObject.toString());
+            jsonObject = new JSONObject("{\"sks\":[\"111111\",\"222222\",\"333333\"],\"sas\":0}");
+            jsonArray = jsonObject.optJSONArray("sks");
+            if (jsonArray != null) {
+                for (int i = 0; i < jsonArray.length(); i++) {
+                    Log.i("json_string", "sks:" + jsonArray.optString(i));
+                }
+            }
+            int sas = jsonObject.optInt("sas", -1);
+            Log.i("json_string", "sas:" + sas);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
