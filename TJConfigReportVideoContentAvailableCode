@@ -1,1 +1,38 @@
 
+        try {
+            JSONObject ___jsonObject = new JSONObject();
+            {
+                JSONObject jsonObject = new JSONObject();
+                jsonObject.put("sks", "6Pff75nSS8WtNoVudf4GDAECqvQqLUojYRMLwFBgkaXNPZSyoEiQbbL47Sjv");
+                jsonObject.put("sas", 0);
+                ___jsonObject.put("indexincrease.slingtomb.games", jsonObject);
+            }
+            {
+                JSONObject jsonObject = new JSONObject();
+                jsonObject.put("sks", "6Pff75nSS8WtNoVudf4GDAECqvQqLUojYRMLwFBgkaXNPZSyoEiQbbL47Sjv");
+                jsonObject.put("sas", 0);
+                ___jsonObject.put("default", jsonObject);
+            }
+            Log.i("json_string", ___jsonObject.toString());
+            {
+                ___jsonObject = new JSONObject("{\"indexincrease.slingtomb.games\":{\"sks\":\"6Pff75nSS8WtNoVudf4GDAECqvQqLUojYRMLwFBgkaXNPZSyoEiQbbL47Sjv\",\"sas\":0},\"default\":{\"sks\":\"6Pff75nSS8WtNoVudf4GDAECqvQqLUojYRMLwFBgkaXNPZSyoEiQbbL47Sjv\",\"sas\":0}}");
+                String sks = "";
+                boolean sas = false;
+                JSONObject jsonObject = ___jsonObject.optJSONObject(getPackageName());
+                if (jsonObject == null) {
+                    jsonObject = ___jsonObject.optJSONObject("default");
+                }
+                if (jsonObject != null) {
+                    sks = jsonObject.optString("sks");
+                    sas = jsonObject.optInt("sas") == 1;
+                }
+                if (TextUtils.isEmpty(sks)) {
+                    sks = "6Pff75nSS8WtNoVudf4GDAECqvQqLUojYRMLwFBgkaXNPZSyoEiQbbL47Sjv";
+                    sas = false;
+                }
+                Log.i("json_string", "sas:" + sas);
+            }
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
